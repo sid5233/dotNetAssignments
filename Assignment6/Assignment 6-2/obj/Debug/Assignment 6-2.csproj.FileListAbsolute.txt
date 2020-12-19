@@ -1,0 +1,6 @@
+E:\CDAC feb_20\Dot net\Day 8\Assignment 6-2\bin\Debug\Assignment 6-2.exe.config
+E:\CDAC feb_20\Dot net\Day 8\Assignment 6-2\bin\Debug\Assignment 6-2.exe
+E:\CDAC feb_20\Dot net\Day 8\Assignment 6-2\bin\Debug\Assignment 6-2.pdb
+E:\CDAC feb_20\Dot net\Day 8\Assignment 6-2\obj\Debug\Assignment 6-2.csproj.CoreCompileInputs.cache
+E:\CDAC feb_20\Dot net\Day 8\Assignment 6-2\obj\Debug\Assignment 6-2.exe
+E:\CDAC feb_20\Dot net\Day 8\Assignment 6-2\obj\Debug\Assignment 6-2.pdb
